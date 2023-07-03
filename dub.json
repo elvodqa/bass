@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Emir Cengiz"
+	],
+	"copyright": "Copyright © 2023, Emir Cengiz",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "bass",
+	"libs": [
+		"bass"
+	]
+}
