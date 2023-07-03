@@ -3,8 +3,8 @@
 		"Emir Cengiz"
 	],
 	"copyright": "Copyright © 2023, Emir Cengiz",
-	"description": "A minimal D application.",
-	"license": "proprietary",
+	"description": "Binding for BASS audio library.",
+	"license": "Boost",
 	"name": "bass",
 	"libs": [
 		"bass"
