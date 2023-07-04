@@ -8,5 +8,11 @@
 	"name": "bass",
 	"libs": [
 		"bass"
+	],
+	"importPaths": [
+		"source"
+	],
+	"sourcePaths": [
+		"source"
 	]
 }
