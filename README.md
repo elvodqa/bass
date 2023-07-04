@@ -1,4 +1,4 @@
-# bass
+# BASS
 This project provides bindings to the [BASS](https://www.un4seen.com/bass.html), a simple and easy-to-use library to enjoy audio programming.
 
 See [API](https://www.un4seen.com/doc/).
