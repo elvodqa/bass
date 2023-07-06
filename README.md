@@ -9,13 +9,13 @@ To use BASS, add `bass` as a dependency to your project's package config file.
 __dub.json__
 ```
 dependencies {
-    "bass": "~>0.1.0",
+    "bass": "~>0.1.3",
 }
 ```
 
 __dub.sdl__
 ```
-dependency "bass" version="~>0.1.0"
+dependency "bass" version="~>0.1.3"
 ```
 
 ## Examples
